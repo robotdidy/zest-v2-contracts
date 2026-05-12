@@ -1,4 +1,4 @@
-# Zest Protocol
+# <img src="logo.svg" alt="" width="32" height="32" valign="middle" /> Zest Protocol
 
 Zest v2 introduces **efficiency groups** for granular risk pricing per asset combination, a **hub-spoke architecture** with **market.clar** as the central orchestrator, and collateral flexibility letting users choose between **isolated (non-rehypothecated)** or **yield-bearing (rehypothecated)** collateral based on their risk preferences.
 
